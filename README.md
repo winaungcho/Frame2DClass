@@ -24,6 +24,7 @@
 2. Stress and strain inside of the nembers are small enough to be in the range of elastic portion.
 3. Displacements of joints/nodes are small enough sothat secondary effects will be negalected.
 4. Members are large enough to prevent bucklings.
+5. Member end rotations are the same at the same node.
 
 ## FEM model
 
